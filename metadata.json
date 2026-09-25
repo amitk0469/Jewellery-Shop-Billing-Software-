@@ -1,0 +1,6 @@
+{
+  "name": "Asha Jewellers",
+  "description": "Gold jewellery billing calculator with liquid glass design, multiple items, making charges, old gold exchange, and bill generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
